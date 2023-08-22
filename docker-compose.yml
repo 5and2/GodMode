@@ -2,7 +2,7 @@ version: "3"
 
 services:
   godmode:
-    image: smolai/godmode
+    image: smol-ai/GodMode
     ports:
       - "7474:7474"
     volumes:
