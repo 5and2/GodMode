@@ -2,7 +2,7 @@ version: "3"
 
 services:
   godmode:
-    image: https://github.com/smol-ai/GodMode
+    image: https://github.com/smol-ai/godmode
     ports:
       - "7474:7474"
     volumes:
