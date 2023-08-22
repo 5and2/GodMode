@@ -2,7 +2,7 @@ version: "3"
 
 services:
   godmode:
-    image: ghcr.io/smol-ai/godmode:main
+    image: smolai/godmode
     ports:
       - "7474:7474"
     volumes:
